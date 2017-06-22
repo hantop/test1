@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ds_xwbank:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ds_xwbank.war">
+      <element id="artifact" artifact-name="ds_xwbank:war exploded" />
+    </root>
+  </artifact>
+</component>
